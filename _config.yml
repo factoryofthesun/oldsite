@@ -63,12 +63,10 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Research Assistant in 3DL Lab at UChicago"
   email            :  guanzhi@uchicago.edu
+  cv               : "factoryofthesun.github.io/files/20211207_CV.pdf"
   github           : "factoryofthesun"
-  linkedin         : "https://www.linkedin.com/in/richardliu2019/"
+  linkedin         : "richardliu2019"
   twitter          : "allthatissolids"
-  links:
-    - label: "CV"
-      url: "factoryofthesun.github.io/files/20211207_CV.pdf"
 
 # Reading Files
 include:
